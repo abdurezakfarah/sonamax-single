@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/services</loc>
+    <text>Services</text>
+  </url>
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/about-us</loc>
+    <text>About</text>
+  </url>
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/projects</loc>
+    <text>Projects</text>
+  </url>
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/#testimonials</loc> <text>Testimonials</text>
+  </url>
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/contact-us</loc>
+    <text>Contact</text>
+  </url>
+
+  <url>
+    <loc>https://www.sonamaxmarketing.com/blog</loc>
+    <text>News</text>
+  </url>
+
+</urlset>
