@@ -4,8 +4,8 @@ require_once('phpmailer/class.phpmailer.php');
 require_once('phpmailer/class.smtp.php');
 
 define("MAILHOST", "smtp.gmail.com");
-define("USERNAME", "sonamaxmarketing@gmail.com");
-define("PASSWORD", "wmzp vyst jkrk lojj");
+define("USERNAME", "xxxx");
+define("PASSWORD", "xxxxx");
 // define("SEND_FROM_EMAIL", "sonamaxmarketing@gmail.com");
 // define("SEND_FROM_NAME", "sonamaxmarketing@gmail.com");
 // define("SEND_FROM", "sonamaxmarketing@gmail.com");
