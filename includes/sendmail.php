@@ -6,9 +6,7 @@ require_once('phpmailer/class.smtp.php');
 define("MAILHOST", "smtp.gmail.com");
 define("USERNAME", "xxxx");
 define("PASSWORD", "xxxxx");
-// define("SEND_FROM_EMAIL", "sonamaxmarketing@gmail.com");
-// define("SEND_FROM_NAME", "sonamaxmarketing@gmail.com");
-// define("SEND_FROM", "sonamaxmarketing@gmail.com");
+
 
 
 $mail = new PHPMailer();
